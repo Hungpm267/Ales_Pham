@@ -9,6 +9,7 @@ html {
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
 }
+
 .service-item .icons {
     display: flex; /* Đặt các phần tử con ngang hàng */
     gap: 10px; /* Khoảng cách giữa các ảnh */
